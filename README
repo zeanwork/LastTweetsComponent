@@ -1,0 +1,3 @@
+Componente para pegar os últimos tweets de um usuário do twitter.
+
+Componente para ser utilizado juntamente com o Zeanwork Framework PHP. Porem pode ser fito algumas alterações para ser utilizado com outros frameworks PHP, como o CakePHP por exemplo.
