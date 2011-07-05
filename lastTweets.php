@@ -43,9 +43,9 @@ class LastTweetsComponent extends Component {
 	 * @var array
 	 */
 	var $html = array(
-					  'start' => "<ul class=\"tweets\">"
-					, 'tweet' => "<li class=\"tweet\"><span class=\"tweetStatus\">%s</span><br /><span class=\"tweetDate\">%s</span></li>"
-					, 'end' => "</ul>"
+			  'start' => "<ul class=\"tweets\">"
+			, 'tweet' => "<li class=\"tweet\"><span class=\"tweetStatus\">%s</span><br /><span class=\"tweetDate\">%s</span></li>"
+			, 'end' => "</ul>"
 	);
 
 	/**
@@ -57,7 +57,7 @@ class LastTweetsComponent extends Component {
 		if($response){
 			if(class_exists('SimpleXMLElement')){
 				$xml = new SimpleXMLElement($response);
-			return $xml;
+				return $xml;
 			}else{
 				return $response;
 			}
