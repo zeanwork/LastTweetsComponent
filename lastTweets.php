@@ -2,10 +2,10 @@
 /**
  * Componente para pegar os últimos tweets de um usuário do twitter
  * 
- * Copyright Copyright 2010, Josemar Davi Luedke <josemarluedke@gmail.com>
+ * Copyright 2010, Josemar Davi Luedke <josemarluedke@gmail.com>
  * 
  * Licenciado sob a licença MIT
- * Redistribuições de arquivos e/ou partes de códigos devem manter o aviso de copyright acima.
+ * Redistribuições de partes do código deve manter o aviso de copyright acima.
  * 
  * @author Josemar Davi Luedke <josemarluedke@gmail.com>
  * @version 0.1.0
